@@ -5,4 +5,4 @@ Reinitialize all the pin declarations to correspond to the pins on the microcont
 
 For our implementation we used an Arduino UNO for our audio and a Teensy for our lights.
 
-Please contact me at roserainbow313@gmail.com if you would like to implement something similar and I'll be happy to help you out :)s
+Please contact me at natalie@ghidali.com if you would like to implement something similar and I'll be happy to help you out :)s
